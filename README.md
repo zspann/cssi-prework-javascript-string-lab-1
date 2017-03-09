@@ -34,4 +34,4 @@ Use this as a template when you build out your l33t converter!
 
 5. Open `encoder.js`. Follow the instructions in the comments to add code that translates `userString` into basic l33t before it is returned.
 
-6. Run `learn` to make sure the function passes the tests!
+6. Open `SpecRunner.html` to check and see if the function passes the tests!
